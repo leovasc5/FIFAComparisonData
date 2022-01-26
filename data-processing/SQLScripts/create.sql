@@ -1,7 +1,3 @@
-- Sistema para conversão de excel em database SQL Server
-- PHP comparador
-- Base de Dados
-
 CREATE DATABASE FIFAComparisonDATA;
 
 -- The BIT type will represent the BOOLEAN type

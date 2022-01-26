@@ -1,1 +1,3 @@
-echo "Creating";
+<?php
+    echo "Creating";
+?>
