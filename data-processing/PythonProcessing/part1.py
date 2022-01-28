@@ -12,8 +12,8 @@ for i in editions:
         notnull.append(j)
 
 notnull = list(dict.fromkeys(notnull))
-for k in notnull:
-    print(k) # -> These will be the columns (fields) that will not receive notnull to avoid future errors and ensure system integrity
+#for k in notnull:
+    #print(k) # -> These will be the columns (fields) that will not receive notnull to avoid future errors and ensure system integrity
 
 def getEditions():
     return editions
